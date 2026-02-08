@@ -1,4 +1,4 @@
-# MNIST Feature Bank (private notes)
+# MNIST Feature Bank
 
 This repo is a feature-extraction project with MNIST where each image is turned into a set of **1D channels**. The main goal is to identify a **compact 3-filter representation** that still yields strong **classification accuracy**.
 
